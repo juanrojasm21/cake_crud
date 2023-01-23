@@ -1,0 +1,1 @@
+<div class= 'alert alert-warning alert-dismissible fade show' onclick="this.classList.add('hidden');"><?= h($message) ?></div>
